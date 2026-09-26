@@ -13,10 +13,12 @@ Every application below is deployed live on Vercel and ready to test instantly i
 
 | Application | Live Demo | Repository | Category | Architecture & Key Tech |
 | :--- | :--- | :--- | :--- | :--- |
-| **Market Intel** | 🌐 [Launch App](https://market-intel-kappa.vercel.app/) | *Private* | 📈 Quantitative Finance | `JavaScript` `Node.js Serverless` `Financial Feeds` `Options Telemetry` |
+| **Market Intel** | 🌐 [Launch App](https://market-intel-kappa.vercel.app/) <br>*(Guest Code: `guest`)* | *Private* | 📈 Quantitative Finance | `JavaScript` `Node.js Serverless` `Financial Feeds` `Options Telemetry` |
 | **CyberForge Toolkit** | 🌐 [Launch App](https://cyberforge-toolkit.vercel.app/) | [Code ↗](https://github.com/nagpalansh27/CyberForge-Toolkit) | 🛡️ Cybersecurity Suite | `Web Crypto API` `HIBP API` `AES-256` `JWT Inspector` `Subnet CIDR` |
 | **Sentinel Endpoint Scanner** | 🌐 [Launch App](https://python-endpoint-scanner.vercel.app/) | [Code ↗](https://github.com/nagpalansh27/Python-Endpoint-Scanner) | 🛡️ Malware & Threat Intel | `Python Engine` `Web Crypto API` `Shannon Entropy` `Hash Matching` |
 | **Stegano-X Forensics** | 🌐 [Launch App](https://python-image-steganography.vercel.app/) | [Code ↗](https://github.com/nagpalansh27/Python-Image-Steganography) | 🛡️ Digital Forensics | `Python Tkinter Core` `HTML5 Canvas` `LSB Pixel Bit Manipulation` |
+| **Malware Signature DB** | 🌐 [Launch App](https://malware-signature-database.vercel.app/) | [Code ↗](https://github.com/nagpalansh27/Malware-Signature-Database) | 🛡️ Threat Intelligence | `Hash Query Engine` `Bulk MD5 Signatures` `IOC Detection` |
+| **OpenClaw Control Center** | 🌐 [Launch App](https://openclaw-control-center-nine.vercel.app/) | [Code ↗](https://github.com/nagpalansh27/OpenClaw-Control-Center) | 🤖 Autonomous Agents | `Next.js` `React 19` `Electron` `Supabase` `Agent Workstation` |
 | **StockSight** | 🌐 [Launch App](https://stocksight-six.vercel.app/) | [Code ↗](https://github.com/nagpalansh27/StockSight) | 🤖 AI / Equity Research | `HTML5` `TailwindCSS` `JavaScript` `Fact Verification Engine` |
 | **GeoSpatial Land Analytics** | 🌐 [Launch App](https://geospatial-land-analytics.vercel.app/) | [Code ↗](https://github.com/nagpalansh27/GeoSpatial-Land-Analytics) | 🗺️ Web GIS & Mapping | `OpenStreetMap Vectors` `GeoJSON Processing` `Government Land APIs` |
 | **Project SOC2 Compliance** | 🌐 [Launch App](https://project-soc2.vercel.app/) | [Code ↗](https://github.com/nagpalansh27/Project-SOC2) | 🛡️ InfoSec & Audit | `HTML5` `CSS3` `JavaScript` `Audit Template & Policy Generator` |
@@ -24,17 +26,10 @@ Every application below is deployed live on Vercel and ready to test instantly i
 
 ---
 
-## 🛡️ Systems Engineering & Threat Intelligence
-
-- **[OpenClaw-Control-Center](https://github.com/nagpalansh27/OpenClaw-Control-Center)**: Full-stack autonomous agent workstation & control center built with Next.js, React 19, Supabase, and Electron.
-- **[Malware-Signature-Database](https://github.com/nagpalansh27/Malware-Signature-Database)**: Curated threat intelligence database of MD5 malware hashes for antivirus signature development and threat modeling.
-
----
-
 ## 🛠️ Technical Skills
 
 - **Languages**: JavaScript, Python, HTML5, CSS3, SQL, Bash / PowerShell
-- **Frameworks & Libraries**: Node.js, Next.js, React, Express, Electron, Supabase
+- **Frameworks & Libraries**: Node.js, Next.js, React 19, Express, Electron, Supabase
 - **Security & Systems**: Cryptography (AES-256, Hashing), Steganography, Threat Intelligence, Entropy Analysis, HIBP API, Git, Vercel CI/CD, RESTful APIs
 
 ---
